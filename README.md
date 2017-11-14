@@ -1,0 +1,1 @@
+Very first NodeJs module !
